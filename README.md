@@ -20,3 +20,8 @@
 - College : Hatyai Technical College
 - Program : Information Technology
 - Year : Vocational Certificate (Voc. Cert.3)
+
+# Career Goals
+- Become a Digital Artist
+- Learn How to draw Background
+- Learn How to draw Anatomy
