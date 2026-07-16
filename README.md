@@ -25,3 +25,8 @@
 - Become a Digital Artist
 - Learn How to draw Background
 - Learn How to draw Anatomy
+
+# My Hobby
+- Reading
+- Coding
+- Music
