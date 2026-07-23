@@ -30,3 +30,6 @@
 - Reading
 - Coding
 - Drawing
+
+# About
+- Something
