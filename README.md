@@ -40,3 +40,7 @@
 # Favorite Place
 - Beach
 - Zoo
+
+# Favorite Food
+- Fried Chicken
+- Steak
