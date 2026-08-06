@@ -36,3 +36,7 @@
 
 # Experience
 - nothing here
+
+# Favorite Place
+- Beach
+- Zoo
