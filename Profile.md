@@ -1,6 +1,7 @@
 # Profile
-name : onnicha pohtong
-nickname : night
-student id : 67219010084
+
+Name : Onnicha Pohtong
+Student ID : 67219010084
+Nickname : Night
 class : สก.3/2
-Department : Information Technology 
+branch : IT
